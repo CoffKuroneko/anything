@@ -1,1 +1,1 @@
-Test tool.
+Test code.
